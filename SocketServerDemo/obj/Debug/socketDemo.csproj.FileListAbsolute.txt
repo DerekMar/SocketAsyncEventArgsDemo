@@ -1,0 +1,10 @@
+G:\MZC\socketDemo\socketDemo\socketDemo\bin\Debug\socketDemo.exe
+G:\MZC\socketDemo\socketDemo\socketDemo\bin\Debug\socketDemo.pdb
+G:\MZC\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.csprojResolveAssemblyReference.cache
+G:\MZC\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.exe
+G:\MZC\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.pdb
+E:\other_code\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.exe
+E:\other_code\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.pdb
+E:\other_code\socketDemo\socketDemo\socketDemo\bin\Debug\socketDemo.exe
+E:\other_code\socketDemo\socketDemo\socketDemo\bin\Debug\socketDemo.pdb
+E:\other_code\socketDemo\socketDemo\socketDemo\obj\Debug\socketDemo.csprojResolveAssemblyReference.cache

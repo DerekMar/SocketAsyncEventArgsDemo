@@ -13,6 +13,7 @@
 ## 额外功能？
 
 * 线程守卫精灵
+<<<<<<< HEAD
 	1.自动检测无效连接并断开
 	2.自动释放资源
 
@@ -20,6 +21,15 @@
 ## 使用方法
 
 ```
+=======
+	*自动检测无效连接并断开
+	*自动释放资源
+
+
+##使用方法
+
+```C#
+>>>>>>> 786d1938db274afc6c7cd88bd49a493a752ed7b3
     int parallelNum = 100;
     int port = int.Parse(System.Configuration.ConfigurationSettings.AppSettings["Port"]);
                
@@ -27,7 +37,11 @@
     server.Start();
 ```
 
+<<<<<<< HEAD
 ## 有问题反馈
+=======
+##有问题反馈
+>>>>>>> 786d1938db274afc6c7cd88bd49a493a752ed7b3
 在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
 
 * 邮件(DerekMar@163.com)
